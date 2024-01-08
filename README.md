@@ -25,7 +25,7 @@ I'm a passionate frontend developer with a love for creating beautiful and user-
 - [Facebook](https://www.facebook.com/habibopeyemi.adebayo)
 - [Twitter](https://twitter.com/Habib__001)
 
-**Tech Stacks:**
+**💻 Tech Stacks and Tools:**
 <br />
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6?&style=for-the-badge&logo=css3&logoColor=white)
