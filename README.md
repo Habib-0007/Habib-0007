@@ -22,8 +22,9 @@ I'm a passionate frontend developer with a love for creating beautiful and user-
 
 🌐 **Let's connect:**
 - [Portfolio Website](https://habibadebayo.vercel.app/)
-- [Facebook](https://www.facebook.com/habibopeyemi.adebayo)
-- [Twitter](https://twitter.com/Habib__001)
+- [Facebook](https://www.facebook.com/habibopeyemi.adebayo/)
+- [Twitter](https://twitter.com/Habib__001/)
+- [WhatsApp](https://wa.me/+2349019166356/)
 
 **💻 Tech Stacks and Tools:**
 <br />
@@ -52,10 +53,27 @@ Scroll](https://img.shields.io/badge/AOS%20-%23007ACC?&style=for-the-badge&logo=
 [![Your GitHub
 stats](https://github-readme-stats.vercel.app/api?username=Habib-0007&show_icons=true&theme=dark)](https://github.com/Habib-0007)
 
+ **Github Profile Stats:**
+<br />
+[![GitHub
+followers](https://img.shields.io/github/followers/Habib-0007?label=Follow&style=social)](https://github.com/Habib-0007)
+<br />
+[![GitHub
+forks](https://img.shields.io/github/forks/Habib-0007/repo?style=social)](https://github.com/Habib-0007/repo)
+<br />
+[![GitHub
+stars](https://img.shields.io/github/stars/Habib-0007/repo?style=social)](https://github.com/Habib-0007/repo)
+
 🌍 **Check out my work:**
-- [Movies Website](muvvies-hng-project-two.vercel.app)
-- [Draggable image gallery](https://github.com/yourusername/project2)
+- [Movies Website](https://muvvies-hng-project-two.vercel.app)
+- [Draggable image gallery](https://draggg-sortable.vercel.app)
+
+**Top Languages**
+
+ [![Top
+ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-0007&layout=compact)](https://github.com/Habib-0007)
 
 🌱 **I'm always learning and evolving. Let's create something amazing together!**
 
 ![Visitor Count](https://profile-counter.glitch.me/Habib-0007/count.svg)
+
