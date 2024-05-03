@@ -24,6 +24,7 @@ I'm a passionate frontend developer with a love for creating beautiful and user-
 - [Portfolio Website](https://habibadebayo.vercel.app/)
 - [Facebook](https://www.facebook.com/habibopeyemi.adebayo/)
 - [Twitter](https://twitter.com/Habib__001/)
+- [LinkedIn] (https://www.linkedin.com/in/habib-adebayo-76b00423a/)
 - [WhatsApp](https://wa.me/+2349019166356/)
 
 **💻 Tech Stacks and Tools:**
