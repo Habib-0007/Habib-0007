@@ -52,7 +52,7 @@ Scroll](https://img.shields.io/badge/AOS%20-%23007ACC?&style=for-the-badge&logo=
 
 📈 **GitHub Stats:**
 [![Your GitHub
-stats](https://github-readme-stats.vercel.app/api?username=Habib-0007&show_icons=true&theme=dark)](https://github.com/Habib-0007)
+stats](https://github-readme-stats.vercel.app/api?username=Habib-0007&show_icons=true&theme=gruvbox)](https://github.com/Habib-0007)
 
  **Github Profile Stats:**
 <br />
