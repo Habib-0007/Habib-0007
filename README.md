@@ -52,7 +52,7 @@ Scroll](https://img.shields.io/badge/AOS%20-%23007ACC?&style=for-the-badge&logo=
 
 📈 **GitHub Stats:**
 [![Your GitHub
-stats](https://github-readme-stats.vercel.app/api?username=Habib-0007&show_icons=true&theme=gruvbox)](https://github.com/Habib-0007)
+stats](https://github-readme-stats.vercel.app/api?username=Habib-0007&show_icons=true&theme=dracula)](https://github.com/Habib-0007)
 
  **Github Profile Stats:**
 <br />
@@ -72,7 +72,7 @@ stars](https://img.shields.io/github/stars/Habib-0007/repo?style=social)](https:
 **Top Languages**
 
  [![Top
- Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-0007&layout=compact)](https://github.com/Habib-0007)
+ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-0007&layout=compact&theme=dracula)](https://github.com/Habib-0007)
 
 🌱 **I'm always learning and evolving. Let's create something amazing together!**
 
