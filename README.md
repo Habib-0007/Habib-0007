@@ -9,6 +9,8 @@ I'm a passionate frontend developer with a love for creating beautiful and user-
 🔧 **Skills:**
 - HTML5
 - CSS3
+- SCSS
+- LESS
 - JavaScript (ES6+)
 - React.js
 - Tailwind CSS
