@@ -67,7 +67,7 @@ forks](https://img.shields.io/github/forks/Habib-0007/repo?style=social)](https:
 [![GitHub
 stars](https://img.shields.io/github/stars/Habib-0007/repo?style=social)](https://github.com/Habib-0007/repo)
 
-🌍 **Check out my work:**
+🌍 **Check out some of my work:**
 - [Movies Website](https://muvvies-hng-project-two.vercel.app)
 - [Draggable image gallery](https://draggg-sortable.vercel.app)
 
