@@ -12,7 +12,9 @@ I'm a passionate frontend developer with a love for creating beautiful and user-
 - SCSS
 - LESS
 - JavaScript (ES6+)
-- React.js
+- Typescript 
+- React
+- Next 
 - Tailwind CSS
 - Responsive Web Design
 - Web Accessibility
