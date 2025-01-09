@@ -55,8 +55,7 @@ Scroll](https://img.shields.io/badge/AOS%20-%23007ACC?&style=for-the-badge&logo=
 - Email: [adebayohabib7@gmail.com]
 
 📈 **GitHub Stats:**
-[![Your GitHub
-stats](https://github-readme-stats.vercel.app/api?username=Habib-0007&show_icons=true&theme=dracula)](https://github.com/Habib-0007)
+![Habib-0007's Stats](https://github-readme-stats.vercel.app/api?username=Habib-0007&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
  **Github Profile Stats:**
 <br />
@@ -73,10 +72,12 @@ stars](https://img.shields.io/github/stars/Habib-0007/repo?style=social)](https:
 - [Movies Website](https://muvvies-hng-project-two.vercel.app)
 - [Draggable image gallery](https://draggg-sortable.vercel.app)
 
+**GitHub Streak**
+![Habib-0007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habib-0007&theme=tokyonight&hide_border=false)
+
 **Top Languages**
 
- [![Top
- Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-0007&layout=compact&theme=dracula)](https://github.com/Habib-0007)
+ ![Habib-0007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-0007&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 🌱 **I'm always learning and evolving. Let's create something amazing together!**
 
