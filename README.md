@@ -25,11 +25,21 @@ I'm a passionate frontend developer with a love for creating beautiful and user-
 - Exploring the latest in web development.
 
 🌐 **Let's connect:**
-- [Portfolio Website](https://habibadebayo.vercel.app/)
-- [Facebook](https://www.facebook.com/habibopeyemi.adebayo/)
-- [Twitter](https://twitter.com/Habib__001/)
-- [LinkedIn](https://www.linkedin.com/in/habib-adebayo-76b00423a/)
-- [WhatsApp](https://wa.me/+2349019166356/)
+<p align='center'>
+<a href="https://habibadebayo.vercel.app/"> Personal Portfolio </a>
+<a href="https://wa.me/+2349019166356?text=Hello+Habib" target="_blank">
+  ![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)
+</a>&nbsp;&nbsp;
+<a href="https://twitter.com/Habib__001/" target="_blank">
+  ![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/habib-adebayo-76b00423a/" target="_blank">
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>&nbsp;&nbsp;
+<a href="mailto: adebayohabib7@gmail.com" target="_blank">
+  ![Email](https://img.shields.io/badge/email%20me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)
+</a>&nbsp;&nbsp;
+</p>
 
 **💻 Tech Stacks and Tools:**
 <br />
