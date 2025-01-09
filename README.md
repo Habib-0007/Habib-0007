@@ -27,9 +27,8 @@ I'm a passionate frontend developer with a love for creating beautiful and user-
 🌐 **Let's connect:**
 <p align='center'>
 <a href="https://habibadebayo.vercel.app/"> Personal Portfolio </a>
-<a href="https://wa.me/+2349019166356?text=Hello+Habib" target="_blank">
-  ![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)
-</a>&nbsp;&nbsp;
+  [![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2349019166356?text=Hello+Habib)
+&nbsp;&nbsp;
 <a href="https://twitter.com/Habib__001/" target="_blank">
   ![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)
 </a>&nbsp;&nbsp;
