@@ -26,17 +26,34 @@ I'm a passionate frontend developer with a love for creating beautiful and user-
 
 🌐 **Let's connect:**
 <p align='center'>
-<a href="https://habibadebayo.vercel.app/"> Personal Portfolio </a> &nbsp; &nbsp;
-  [![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2349019166356?text=Hello+Habib)
+<a href="https://habibadebayo.vercel.app/">
+<img src"https://img.shields.io/badge/Personal Portfolio%20-%23007ACC?&style=for-the-badge&logo=Personal+Portfolio&logoColor=white"
+alt="Habib Portfolio Icon" />
+</a>
+<a href="https://habibadebayo.vercel.app/"> 
+ <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Habib Facebook Icon" />
+</a> &nbsp; &nbsp;
+ <a href="https://wa.me/+2349019166356?text=Hello+Habib"> <img
+ src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+ alt="Habib WhatApp Icon"
+  />
+  </a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/Habib__001/" target="_blank">
-  ![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)
+  <img
+  src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+  alt="Habib Twitter Icon"
+  />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/habib-adebayo-76b00423a/" target="_blank">
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  <img
+  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="Habib LinkedIn Icon" />
 </a>&nbsp;&nbsp;
 <a href="mailto: adebayohabib7@gmail.com" target="_blank">
-  ![Email](https://img.shields.io/badge/email%20me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)
+  <img
+  src="https://img.shields.io/badge/email%20me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Habib Email Icon" />
 </a>&nbsp;&nbsp;
 </p>
 
@@ -47,8 +64,7 @@ I'm a passionate frontend developer with a love for creating beautiful and user-
 ![SCSS](https://img.shields.io/badge/SCSS%20-hotpink?&style=for-the-badge&logo=SASS&logoColor=white)
 ![LESS](https://img.shields.io/badge/less%20-%230769AD?&style=for-the-badge&logo=less&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC?&style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Animate on
-Scroll](https://img.shields.io/badge/AOS%20-%23007ACC?&style=for-the-badge&logo=AOS&logoColor=white)
+![AnimateonScroll](https://img.shields.io/badge/AOS%20-%23007ACC?&style=for-the-badge&logo=AOS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC?&style=for-the-badge&logo=typescript&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jquery%20-%230769AD?&style=for-the-badge&logo=jquery&logoColor=white)
