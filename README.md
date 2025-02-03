@@ -94,11 +94,14 @@ forks](https://img.shields.io/github/forks/Habib-0007/repo?style=social)](https:
 stars](https://img.shields.io/github/stars/Habib-0007/repo?style=social)](https://github.com/Habib-0007/repo)
 
 🌍 **Check out some of my work:**
-- [Movies Website](https://muvvies-hng-project-two.vercel.app)
-- [Draggable image gallery](https://draggg-sortable.vercel.app)
+- [Movies Website](https://fuoyecbt.vercel.app)
+- [Draggable image gallery](https://owe-yoruba.vercel.app)
 
 **GitHub Streak**
-![Habib-0007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habib-0007&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Habib-0007&theme=tokyonight)
+
+**GitHub Trophies**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Habib-0007&theme=tokyonight)
 
 **Top Languages**
 
