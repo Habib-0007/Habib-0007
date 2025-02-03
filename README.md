@@ -1,8 +1,8 @@
 # Hello, I'm Habib Adebayo
 
-👋 Frontend Developer | HTML | CSS | JavaScript | React | Tailwind CSS
+Frontend Developer | HTML | CSS | JavaScript | Typescript | React | Tailwind CSS ❤️
 
-🌟 Welcome to my GitHub profile! 🌟
+Welcome to my GitHub profile! 🌟
 
 I'm a passionate frontend developer with a love for creating beautiful and user-friendly web applications. I specialize in HTML, CSS, JavaScript, React, and I'm a big fan of Tailwind CSS.
 
