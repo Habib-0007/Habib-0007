@@ -94,8 +94,8 @@ forks](https://img.shields.io/github/forks/Habib-0007/repo?style=social)](https:
 stars](https://img.shields.io/github/stars/Habib-0007/repo?style=social)](https://github.com/Habib-0007/repo)
 
 🌍 **Check out some of my work:**
-- [Movies Website](https://fuoyecbt.vercel.app)
-- [Draggable image gallery](https://owe-yoruba.vercel.app)
+- [Fuoyecbt](https://fuoyecbt.vercel.app)
+- [Habib Job Board](https://habib-job-board.vercel.app)
 
 **GitHub Streak**
 ![GitHub Streak](https://streak-stats.demolab.com?user=Habib-0007&theme=tokyonight)
